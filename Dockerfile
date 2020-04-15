@@ -1,5 +1,7 @@
 FROM ubuntu:18.04
 
+MAINTAINER Chen Wang<mr_cwang@foxmail.com>
+
 ENV HOME /root
 ENV DEBIAN_FRONTEND noninteractive
 
